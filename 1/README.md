@@ -1,7 +1,7 @@
 # assignment_1
 
 Skyfi Labs assignment 1.
-
+Files are misssing because all file types cannot be to github. ;( 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
